@@ -1,0 +1,481 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ekotrestbud.net" resolutions="1x,2x" timestamp="1499119021506">
+  <folder name="css">
+    <file name="site_global.css" crc="383954035"/>
+    <file name="home-de.css" crc="3907815272" ref="home-de"/>
+    <file name="home-en.css" crc="4256236593" ref="home-en"/>
+    <file name="index.css" crc="245515158" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home-de:home-en"/>
+    <file name="museutils.js" crc="4232573551" ref="index:home-de:home-en"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home-de:home-en"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:home-de:home-en"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:home-de:home-en"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:home-de:home-en"/>
+    <file name="webpro.js" crc="3770351119" ref="index:home-de:home-en"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:home-de:home-en"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:home-de:home-en"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:home-de:home-en"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:home-de:home-en"/>
+    <file name="require.js" crc="4234670167" ref="index:home-de:home-en"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="4022169386" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="logo_2x.png" crc="519295000" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="флаги 8.png" crc="4166653410" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="флаги 8_2x.png" crc="3767540162" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="флаги 12-u6705-fr.jpg" crc="63118990" ref="index"/>
+    <file name="флаги 12-u6705-fr_2x.jpg" crc="73585212" ref="index"/>
+    <file name="01.jpg" crc="3908526452" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="01_2x.jpg" crc="351153610" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="header.jpg" crc="18143142" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="wood.png" crc="3941842718" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="water.png" crc="4082715890" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="brush.png" crc="3888042961" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1 (2)-crop-u5412.jpg" crc="77940623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:home-de:home-en"/>
+    <file name="1-crop-u5420.jpg" crc="3842263662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2 (2)-crop-u5414.jpg" crc="3815779043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u5402.jpg" crc="4199663018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3 (2)-crop-u5394.jpg" crc="4241266916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u5388.jpg" crc="3920643129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4 (2)-crop-u5386.jpg" crc="4223890907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u5410.jpg" crc="3868907407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5 (2)-crop-u5430.jpg" crc="172392851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u5426.jpg" crc="3838037112" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6 (2)-crop-u5428.jpg" crc="3767041777" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u5396.jpg" crc="295291136" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7 (2)-crop-u5400.jpg" crc="306949877" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-crop-u5434.jpg" crc="4292016671" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8 (2)-crop-u5404.jpg" crc="3900614666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8.jpg" crc="346910936" seo="true" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="9 (2).jpg" crc="533988402" seo="true" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="9.jpg" crc="212798684" seo="true" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="10 (2).jpg" crc="3953104589" seo="true" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="10.jpg" crc="215460433" seo="true" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="10_2x.jpg" crc="26162849" seo="true" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="11 (2).jpg" crc="3773854909" seo="true" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="11.jpg" crc="4078720115" seo="true" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="12.jpg" crc="3768342616" seo="true" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="13.jpg" crc="4261346752" seo="true" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="14.jpg" crc="3773854909" seo="true" ref="index:home-de:home-en">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-en" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1 (2)68x45.jpg" crc="402735776" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1 (2)68x45_2x.jpg" crc="360140282" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="168x45.jpg" crc="4181575855" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="168x45_2x.jpg" crc="482539646" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="2 (2)68x45.jpg" crc="3946399243" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="2 (2)68x45_2x.jpg" crc="302372887" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="268x45.jpg" crc="18305510" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="268x45_2x.jpg" crc="4017031683" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="3 (2)68x45.jpg" crc="455141064" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="3 (2)68x45_2x.jpg" crc="3855303915" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="368x45.jpg" crc="308366703" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="368x45_2x.jpg" crc="4068856854" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="4 (2)68x45.jpg" crc="4014772390" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="4 (2)68x45_2x.jpg" crc="4128800113" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="468x45.jpg" crc="441831385" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="468x45_2x.jpg" crc="377779669" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="5 (2)68x45.jpg" crc="142245806" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="5 (2)68x45_2x.jpg" crc="102159317" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="568x45.jpg" crc="389064630" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="568x45_2x.jpg" crc="4209814871" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="6 (2)68x45.jpg" crc="4252297815" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="6 (2)68x45_2x.jpg" crc="480304340" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="668x45.jpg" crc="376941828" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="668x45_2x.jpg" crc="4116133064" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="7 (2)68x45.jpg" crc="237118698" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="7 (2)68x45_2x.jpg" crc="263176343" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="767x45.jpg" crc="4125890187" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="767x45_2x.jpg" crc="54092572" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="8 (2)68x45.jpg" crc="3867934010" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="8 (2)68x45_2x.jpg" crc="4048101546" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="868x45.jpg" crc="4149696338" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="868x45_2x.jpg" crc="4135469551" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="9 (2)68x45.jpg" crc="4034290725" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="9 (2)68x45_2x.jpg" crc="4054653607" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="968x45.jpg" crc="4130510219" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="968x45_2x.jpg" crc="109623708" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="10 (2)68x45.jpg" crc="3877163453" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="10 (2)68x45_2x.jpg" crc="337482219" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1068x45.jpg" crc="79247671" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1068x45_2x.jpg" crc="522271050" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="11 (2)68x45.jpg" crc="11892251" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="11 (2)68x45_2x.jpg" crc="76733224" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1168x45.jpg" crc="4186946852" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1168x45_2x.jpg" crc="3810052602" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1268x45.jpg" crc="313235737" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1268x45_2x.jpg" crc="4290321169" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1368x45.jpg" crc="429066562" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1368x45_2x.jpg" crc="3999061138" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1468x45.jpg" crc="11892251" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1468x45_2x.jpg" crc="76733224" seo="true" ref="index:home-de">
+      <caption webpage="index" alt=""/>
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="left.jpg" crc="369787439" ref="index:home-en">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="left_2x.jpg" crc="270878619" ref="index:home-en">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="right.jpg" crc="34877705" ref="index:home-en">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="right_2x.jpg" crc="305374090" ref="index:home-en">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:home-de:home-en"/>
+    <file name="1 (2)-crop-u4444.jpg" crc="77940623" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="1-crop-u4730.jpg" crc="3842263662" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="2 (2)-crop-u4756.jpg" crc="3815779043" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="2-crop-u4782.jpg" crc="4199663018" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="3 (2)-crop-u4808.jpg" crc="4241266916" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="3-crop-u4834.jpg" crc="3920643129" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="4 (2)-crop-u4860.jpg" crc="4223890907" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="4-crop-u4886.jpg" crc="3868907407" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="5 (2)-crop-u4912.jpg" crc="172392851" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="5-crop-u4938.jpg" crc="3838037112" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="6 (2)-crop-u4964.jpg" crc="3767041777" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="6-crop-u4990.jpg" crc="295291136" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="7 (2)-crop-u5016.jpg" crc="306949877" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="7-crop-u5042.jpg" crc="4292016671" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="8 (2)-crop-u5068.jpg" crc="3900614666" seo="true" ref="home-de">
+      <caption webpage="home-de" alt=""/>
+    </file>
+    <file name="флаги 12.jpg" crc="120317589" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="флаги 12_2x.jpg" crc="261894928" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="1 (2)-crop-u6505.jpg" crc="77940623" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="1-crop-u6497.jpg" crc="3842263662" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="2 (2)-crop-u6477.jpg" crc="3815779043" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="2-crop-u6519.jpg" crc="4199663018" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="3 (2)-crop-u6475.jpg" crc="4241266916" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="3-crop-u6503.jpg" crc="3920643129" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="4 (2)-crop-u6479.jpg" crc="4223890907" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="4-crop-u6481.jpg" crc="3868907407" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="5 (2)-crop-u6515.jpg" crc="172392851" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="5-crop-u6495.jpg" crc="3838037112" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="6 (2)-crop-u6491.jpg" crc="3767041777" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="6-crop-u6509.jpg" crc="295291136" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="7 (2)-crop-u6507.jpg" crc="306949877" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="7-crop-u6511.jpg" crc="4292016671" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="8 (2)-crop-u6483.jpg" crc="3900614666" seo="true" ref="home-en">
+      <caption webpage="home-en" alt=""/>
+    </file>
+    <file name="флаги 12-u6726-fr.jpg" crc="63118990" ref="home-de"/>
+    <file name="флаги 12-u6726-fr_2x.jpg" crc="73585212" ref="home-de"/>
+  </folder>
+  <file name="index.html" crc="3968075653" seo="true" mt="1498495712543" redirect="true"/>
+  <file name="home-de.html" crc="474831366" seo="true" mt="1499118958333" redirect="true"/>
+  <file name="home-en.html" crc="181237160" seo="true" mt="1498495712542" redirect="true"/>
+</manifest>
