@@ -117,7 +117,7 @@
     top:64px;
     left:50%;
     margin-left:381px;
-    background:transparent url("../images/%d1%84%d0%bb%d0%b0%d0%b3%d0%b8%2012.jpg?crc=120317589") no-repeat center center;
+    background:transparent url("../images/ua_flag.jpg") no-repeat center center;
     background-size:cover;
 }
 #u6673.MuseLinkActive{
@@ -130,8 +130,32 @@
     background-size:contain;
 }
 .hidpi #u6673{
-    background-image:url("../images/%d1%84%d0%bb%d0%b0%d0%b3%d0%b8%2012_2x.jpg?crc=261894928");
+    background-image:url("../images/ua_flag.jpg");
 }
+
+#u1337{
+    z-index:197;
+    width:40px;
+    height:34px;
+    opacity:1;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter:alpha(opacity=100);
+    position:fixed;
+    top:64px;
+    left:50%;
+    margin-left:381px;
+    background:transparent url("../images/ua_flag.jpg") no-repeat center center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center center;
+    width:40px;
+    height:34px;
+    min-height:0px;
+    margin:0px 0px 0px 381px;
+    background-size:contain;
+    background-image:url("../images/ua_flag.jpg");
+}
+
 #u6413{
     z-index:198;
     width:40px;
